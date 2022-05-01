@@ -1,0 +1,8 @@
+---Ler artigo sobre flexbox
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+-- assistir sobre pseudo elementos 
+
+https://www.youtube.com/watch?v=TpAv-csDTSg
+
