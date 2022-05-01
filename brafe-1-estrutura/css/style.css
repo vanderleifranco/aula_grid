@@ -10,9 +10,19 @@ body {
 	color: #252525;
 }
 
+
 * {
-	box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		   -moz-box-sizing: border-box;
+				box-sizing: border-box;
 }
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+/* ler https://todasasrespostas.pt/o-que-significa-box-sizing-border-box */ 
 
 /* Menu */
 
